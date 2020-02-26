@@ -1,0 +1,11 @@
+openapi: 3.0.0
+info:
+  title: Flotsam
+  version: '1.0'
+  description: |
+    Some descriptive text
+servers:
+  - url: 'http://localhost:3000'
+paths: {}
+components:
+  schemas: {}
