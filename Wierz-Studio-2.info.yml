@@ -1,0 +1,10 @@
+name: Wierz-Studio-2
+description: TBD
+source: https://gitub.com/maxar-testorg/Wierz-Studio-2
+team: Developer Services
+data_classification:
+  - company_proprietary
+
+poc:
+  - name: Developer Services
+    email: DL-IT-Developer-Services@digitalglobe.com
